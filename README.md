@@ -1,5 +1,5 @@
 ### Boilerplate app structure for Quiz App project
-
+William Idrissi
 User experience requirements
 The following requirements cover what the app must do, from the user's perspective.
 
